@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=aomineDev&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aomineDev.aomineDev)
