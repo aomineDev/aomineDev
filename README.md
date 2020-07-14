@@ -1,6 +1,6 @@
-# Hi there! <img src="./assets/Hi.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/aomineDev/aomineDev/master/assets/Hi.gif" width="30px">
 
-<img align="right" src="assets/github.gif" width="200">
+<img align="right" src="https://raw.githubusercontent.com/aomineDev/aomineDev/master/assets/github.gif" width="200">
 
 <!--
 **aomineDev/aomineDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
