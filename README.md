@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)
 ![laravel](https://img.shields.io/badge/-laravel-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20)
 
-## Data Bases
+### Data Bases
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
 ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=grey&labelColor=FFCA28)
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
 
 
-## Others
+### Others
 ![expo](https://img.shields.io/badge/-expo-grey?style=for-the-badge&logo=expo&logoColor=white&labelColor=000020)
 ![apollo](https://img.shields.io/badge/-apollo%20graphql-grey?style=for-the-badge&logo=apollo%20graphql&logoColor=white&labelColor=311C87)
 ![redux](https://img.shields.io/badge/-redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC)
