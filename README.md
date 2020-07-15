@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 - 🌱 I’m currently learning React Native
 - 💬 Ask me all about Web development
-- 📫 How to reach me: [@aomineDev](https://twitter.com/aomineDev)
+- 📫 How to reach me: <a href="https://twitter.com/aomineDev" target="_blank">@aomineDev</a>
 
 ## Skills
 ### Frontend
