@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 ![GreenSock](https://img.shields.io/badge/-GreenSock-grey?style=for-the-badge&logo=GreenSock&logoColor=white&labelColor=88CE02)
 ![yarn](https://img.shields.io/badge/-yarn-grey?style=for-the-badge&logo=yarn&logoColor=white&labelColor=2C8EBB)
 ![deno](https://img.shields.io/badge/-deno-grey?style=for-the-badge&logo=deno&logoColor=white&labelColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=007ACC)
 -->
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=aomineDev&hide=["issues"]&show_icons=true)
 
