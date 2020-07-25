@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 ![redux](https://img.shields.io/badge/-redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC)
 ![react router](https://img.shields.io/badge/-react%20router-grey?style=for-the-badge&logo=react%20router&logoColor=white&labelColor=CA4245)
 ![vercel](https://img.shields.io/badge/-vercel-grey?style=for-the-badge&logo=zeit&logoColor=white&labelColor=000000)
-![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098)
-![npm](https://img.shields.io/badge/-npm-grey?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
 <!--
+![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098)
+![npm](https://img.shields.io/badge/-npm-grey?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837)
 ![v8](https://img.shields.io/badge/-v8-grey?style=for-the-badge&logo=v8&logoColor=white&labelColor=4B8BF5)
 ![jest](https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest&logoColor=white&labelColor=C21325)
 ![go](https://img.shields.io/badge/-go-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8)
@@ -76,8 +76,6 @@ Here are some ideas to get you started:
 -->
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=aomineDev&hide=["issues"]&show_icons=true)
 
-<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aomineDev.aomineDev)
--->
 
 ![Made with love in Perú](https://madewithlove.now.sh/pe?heart=true&template=for-the-badge)
