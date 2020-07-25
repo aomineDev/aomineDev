@@ -76,6 +76,8 @@ Here are some ideas to get you started:
 -->
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=aomineDev&hide=["issues"]&show_icons=true)
 
+<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aomineDev.aomineDev)
+-->
 
 ![Made with love in Perú](https://madewithlove.now.sh/pe?heart=true&template=for-the-badge)
