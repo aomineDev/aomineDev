@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=2195F1)
 ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=grey&labelColor=F7D43C)
-![webpack](https://img.shields.io/badge/-webpack-grey?style=for-the-badge&logo=webpack&logoColor=grey&labelColor=8DD6F9)
 
 #### Frameworks CSS
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563D7C)
@@ -50,6 +49,8 @@ Here are some ideas to get you started:
 
 
 ### Others
+![webpack](https://img.shields.io/badge/-webpack-grey?style=for-the-badge&logo=webpack&logoColor=grey&labelColor=8DD6F9)
+![socket](https://img.shields.io/badge/-socket-grey?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=010101)
 ![expo](https://img.shields.io/badge/-expo-grey?style=for-the-badge&logo=expo&logoColor=white&labelColor=000020)
 ![apollo](https://img.shields.io/badge/-apollo%20graphql-grey?style=for-the-badge&logo=apollo%20graphql&logoColor=white&labelColor=311C87)
 ![redux](https://img.shields.io/badge/-redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC)
@@ -68,7 +69,6 @@ Here are some ideas to get you started:
 ![rust](https://img.shields.io/badge/-rust-grey?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)
 ![webcomponents](https://img.shields.io/badge/-webcomponents-grey?style=for-the-badge&logo=webcomponents.org&logoColor=white&labelColor=29ABE2)
 ![webrtc](https://img.shields.io/badge/-webrtc-grey?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=333333)
-![socket](https://img.shields.io/badge/-socket-grey?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=010101)
 ![GreenSock](https://img.shields.io/badge/-GreenSock-grey?style=for-the-badge&logo=GreenSock&logoColor=white&labelColor=88CE02)
 ![yarn](https://img.shields.io/badge/-yarn-grey?style=for-the-badge&logo=yarn&logoColor=white&labelColor=2C8EBB)
 ![deno](https://img.shields.io/badge/-deno-grey?style=for-the-badge&logo=deno&logoColor=white&labelColor=000)
