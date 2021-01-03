@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 ![next](https://img.shields.io/badge/-next-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000)
 ![Vue](https://img.shields.io/badge/-Vue-grey?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=4FC08D)
 ![nuxt](https://img.shields.io/badge/-nuxt-grey?style=for-the-badge&logo=nuxt.js&logoColor=white&labelColor=00C58E)
-![angular](https://img.shields.io/badge/-angular-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031)
-![svelte](https://img.shields.io/badge/-svelte-grey?style=for-the-badge&logo=svelte&logoColor=white&labelColor=FF3E00)
+<!-- ![angular](https://img.shields.io/badge/-angular-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031)
+![svelte](https://img.shields.io/badge/-svelte-grey?style=for-the-badge&logo=svelte&logoColor=white&labelColor=FF3E00) -->
 
 ### Backend
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
