@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning React Native
-- 💬 Ask me all about Web development
+- 💬 Ask me all about web development
 - 📫 How to reach me: [@aomineDev](https://twitter.com/aomineDev)
 
 ## Skills
