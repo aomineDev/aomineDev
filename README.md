@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![webpack](https://img.shields.io/badge/-webpack-grey?style=for-the-badge&logo=webpack&logoColor=grey&labelColor=8DD6F9)
 ![socket](https://img.shields.io/badge/-socket-grey?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=010101)
 ![expo](https://img.shields.io/badge/-expo-grey?style=for-the-badge&logo=expo&logoColor=white&labelColor=000020)
-![apollo](https://img.shields.io/badge/-apollo%20graphql-grey?style=for-the-badge&logo=apollo%20graphql&logoColor=white&labelColor=311C87)
+![apollo](https://img.shields.io/badge/-apollo-grey?style=for-the-badge&logo=apollo%20graphql&logoColor=white&labelColor=311C87)
 ![redux](https://img.shields.io/badge/-redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 
