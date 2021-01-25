@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 
 ### Backend
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
-![express](https://img.shields.io/badge/-express-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=000)
+![express](https://img.shields.io/badge/-express-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
 ![graphql](https://img.shields.io/badge/-graphql-grey?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)
 
 ### Data Bases
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=grey&labelColor=FFCA28)
+![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFCA28)
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
 
 ### Others
