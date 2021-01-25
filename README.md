@@ -38,15 +38,13 @@ Here are some ideas to get you started:
 
 ### Backend
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
+![express](https://img.shields.io/badge/-express-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=000)
 ![graphql](https://img.shields.io/badge/-graphql-grey?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)
-![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)
-![laravel](https://img.shields.io/badge/-laravel-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20)
 
 ### Data Bases
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
 ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=grey&labelColor=FFCA28)
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
-
 
 ### Others
 ![webpack](https://img.shields.io/badge/-webpack-grey?style=for-the-badge&logo=webpack&logoColor=grey&labelColor=8DD6F9)
@@ -54,11 +52,12 @@ Here are some ideas to get you started:
 ![expo](https://img.shields.io/badge/-expo-grey?style=for-the-badge&logo=expo&logoColor=white&labelColor=000020)
 ![apollo](https://img.shields.io/badge/-apollo%20graphql-grey?style=for-the-badge&logo=apollo%20graphql&logoColor=white&labelColor=311C87)
 ![redux](https://img.shields.io/badge/-redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
+
+<!--
 ![react router](https://img.shields.io/badge/-react%20router-grey?style=for-the-badge&logo=react%20router&logoColor=white&labelColor=CA4245)
 ![vercel](https://img.shields.io/badge/-vercel-grey?style=for-the-badge&logo=zeit&logoColor=white&labelColor=000000)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
-<!--
 ![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098)
 ![npm](https://img.shields.io/badge/-npm-grey?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837)
 ![v8](https://img.shields.io/badge/-v8-grey?style=for-the-badge&logo=v8&logoColor=white&labelColor=4B8BF5)
@@ -73,9 +72,16 @@ Here are some ideas to get you started:
 ![yarn](https://img.shields.io/badge/-yarn-grey?style=for-the-badge&logo=yarn&logoColor=white&labelColor=2C8EBB)
 ![deno](https://img.shields.io/badge/-deno-grey?style=for-the-badge&logo=deno&logoColor=white&labelColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=007ACC)
+![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)
+![laravel](https://img.shields.io/badge/-laravel-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20)
 -->
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=aomineDev&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aomineDev.aomineDev)
+## 📈 My GitHub Stats 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aomineDev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomineDev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=aomineDev.aomineDev)
 
 ![Made with love in Perú](https://madewithlove.now.sh/pe?heart=true&template=for-the-badge)
