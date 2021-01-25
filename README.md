@@ -82,6 +82,7 @@ Here are some ideas to get you started:
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomineDev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=aomineDev.aomineDev)
+### Glad to see you here!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aomineDev.aomineDev)
 
 ![Made with love in Perú](https://madewithlove.now.sh/pe?heart=true&template=for-the-badge)
