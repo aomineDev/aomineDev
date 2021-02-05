@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 ![expo](https://img.shields.io/badge/-expo-grey?style=for-the-badge&logo=expo&logoColor=white&labelColor=000020)
 ![apollo](https://img.shields.io/badge/-apollo-grey?style=for-the-badge&logo=apollo%20graphql&logoColor=white&labelColor=311C87)
 ![redux](https://img.shields.io/badge/-redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 
 <!--
 ![react router](https://img.shields.io/badge/-react%20router-grey?style=for-the-badge&logo=react%20router&logoColor=white&labelColor=CA4245)
@@ -74,6 +73,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=007ACC)
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)
 ![laravel](https://img.shields.io/badge/-laravel-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 -->
 
 ## 📈 My GitHub Stats 
