@@ -78,8 +78,9 @@ Here are some ideas to get you started:
 
 ## 📈 My GitHub Stats 
 <p>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=aomineDev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomineDev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=aomineDev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=fff&text_color=fff" alt="aominedev" />
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomineDev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="aominedev" />
+  
 </p>
 
 ### Glad to see you here!
