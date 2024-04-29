@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 ![webpack](https://img.shields.io/badge/-webpack-grey?style=for-the-badge&logo=webpack&logoColor=grey&labelColor=8DD6F9)
 ![socket](https://img.shields.io/badge/-socket-grey?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=010101)
 ![expo](https://img.shields.io/badge/-expo-grey?style=for-the-badge&logo=expo&logoColor=white&labelColor=000020)
-![apollo](https://img.shields.io/badge/-apollo-grey?style=for-the-badge&logo=apollo%20graphql&logoColor=white&labelColor=311C87)
-![redux](https://img.shields.io/badge/-redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC)
+<!--![apollo](https://img.shields.io/badge/-apollo-grey?style=for-the-badge&logo=apollo%20graphql&logoColor=white&labelColor=311C87)
+![redux](https://img.shields.io/badge/-redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC) -->
 
 <!--
 ![react router](https://img.shields.io/badge/-react%20router-grey?style=for-the-badge&logo=react%20router&logoColor=white&labelColor=CA4245)
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 ## 📈 My GitHub Stats 
 <p>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=aomineDev&show_icons=true&rank_icon=github&hide_border=true&theme=dracula" alt="aominedev" />
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=aomineDev&show_icons=false&rank_icon=github&hide_border=true&bg_color=30,3a47d5,00d2ff&title_color=fff&text_color=fff" alt="aominedev" />
   <!-- <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=aomineDev&hide_border=true&&count_private=true&include_all_commits=true&bg_color=30,3a47d5,00d2ff&title_color=fff&text_color=fff" alt="aominedev" /> -->
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomineDev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=30,00d2ff,3a47d5&title_color=fff&text_color=fff" alt="aominedev" />
 </p>
