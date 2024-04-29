@@ -78,11 +78,13 @@ Here are some ideas to get you started:
 
 ## 📈 My GitHub Stats 
 <p>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=aomineDev&hide_border=true&&count_private=true&include_all_commits=true&bg_color=30,3a47d5,00d2ff&title_color=fff&text_color=fff" alt="aominedev" />
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=aomineDev&show_icons=true&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" alt="aominedev" />
+  https://github-readme-stats.vercel.app/api?username=aomineDev&show_icons=true&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true&theme=dracula
+  <!-- <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=aomineDev&hide_border=true&&count_private=true&include_all_commits=true&bg_color=30,3a47d5,00d2ff&title_color=fff&text_color=fff" alt="aominedev" /> -->
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomineDev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=30,00d2ff,3a47d5&title_color=fff&text_color=fff" alt="aominedev" />
 </p>
 
 ### Glad to see you here!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aomineDev.aomineDev)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aomineDev.aomineDev) -->
 
 ![Made with love in Perú](https://madewithlove.now.sh/pe?heart=true&template=for-the-badge)
